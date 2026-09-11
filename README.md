@@ -1,9 +1,11 @@
 # Vallarum – Sista skörden
 
-Publik distribution av Windows-spelet. Spelets källkod ingår inte.
+[Spela i webbläsaren](https://rogerjak.github.io/vallarum-play/) · [Hämta Windows-versionen](https://github.com/rogerjak/vallarum-play/releases/latest)
 
-[Spelsida](https://rogerjak.github.io/vallarum-play/) · [Hämta senaste utgåvan](https://github.com/rogerjak/vallarum-play/releases/latest)
+Ett skånskt överlevnadsäventyr med ett utforskbart Elldala och stämningsmusik som växlar när du går in i huset.
 
-Packa upp hela ZIP-filen och starta Vallarum.exe. Unity behöver inte installeras.
+Klicka på **Ladda spelet**. Den första nedladdningen är cirka 147 MB totalt. Mus och tangentbord krävs: WASD rörelse, mus sikte, vänsterklick vapen, 1–4 byt vapen, E interagera, R ladda, M karta och Esc paus. Sparpunkter sparas lokalt i webbläsaren.
 
-Tredjepartskrediter och geografiska källor medföljer spelet.
+Detta repo innehåller kompilerad webbdistribution, laddningssida och Windows-utgåvor. Projektets källkod publiceras inte här.
+
+[Källor och krediter](CREDITS.md)

@@ -1,0 +1,11 @@
+{
+  "sha256": "5a1a3e43119ab7c984e9c11c76bb46084ea4d9c09f6a414933455e8b5e380c77",
+  "bytes": 148093647,
+  "parts": [
+    "Build/WebGL.data.unityweb.part00",
+    "Build/WebGL.data.unityweb.part01",
+    "Build/WebGL.data.unityweb.part02",
+    "Build/WebGL.data.unityweb.part03",
+    "Build/WebGL.data.unityweb.part04"
+  ]
+}
