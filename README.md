@@ -1,11 +1,12 @@
-# Vallarum – Sista skörden
+# Vallarum – Sista skörden v0.5.0
 
-[Spela i webbläsaren](https://rogerjak.github.io/vallarum-play/) · [Hämta Windows-versionen](https://github.com/rogerjak/vallarum-play/releases/latest)
+Ett svenskt FPS i skånsk landsbygd. Spela Börje och rädda skörden.
 
-Ett skånskt överlevnadsäventyr med ett utforskbart Elldala och stämningsmusik som växlar när du går in i huset.
+- [Spela direkt i webbläsaren](https://rogerjak.github.io/vallarum-play/)
+- [Hämta Windows- eller webbpaketet v0.5.0](https://github.com/rogerjak/vallarum-play/releases/tag/v0.5.0)
 
-Klicka på **Ladda spelet**. Den första nedladdningen är cirka 147 MB totalt. Mus och tangentbord krävs: WASD rörelse, mus sikte, vänsterklick vapen, 1–4 byt vapen, E interagera, R ladda, M karta och Esc paus. Sparpunkter sparas lokalt i webbläsaren.
+Dag/natt, valbara årstider och väder, pannlampa på L, traktorns strålkastare och nattbelysning i byn. Mus och tangentbord krävs. Den första webbladdningen är cirka 312 MB.
 
-Detta repo innehåller kompilerad webbdistribution, laddningssida och Windows-utgåvor. Projektets källkod publiceras inte här.
+Windows: packa upp hela ZIP-filen och starta Vallarum.exe. Webb: klicka LADDA SPELET. Sparpunkter lagras lokalt på datorn respektive i webbläsaren.
 
-[Källor och krediter](CREDITS.md)
+Källor och rättigheter: [CREDITS.md](CREDITS.md). Detta repo innehåller distribuerbara spelbyggen; spelets källkod ligger separat.
