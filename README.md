@@ -1,12 +1,11 @@
-# Vallarum – Sista skörden v0.5.0
+# Vallarum – Sista skörden
 
-Ett svenskt FPS i skånsk landsbygd. Spela Börje och rädda skörden.
+Senaste Windowsversionen är v0.6.0. [Hämta spelet](https://github.com/rogerjak/vallarum-play/releases/tag/v0.6.0).
 
-- [Spela direkt i webbläsaren](https://rogerjak.github.io/vallarum-play/)
-- [Hämta Windows- eller webbpaketet v0.5.0](https://github.com/rogerjak/vallarum-play/releases/tag/v0.5.0)
+Packa upp hela ZIP-filen och starta Vallarum.exe. Unity behöver inte installeras.
 
-Dag/natt, valbara årstider och väder, pannlampa på L, traktorns strålkastare och nattbelysning i byn. Mus och tangentbord krävs. Den första webbladdningen är cirka 312 MB.
+Webbversionen är pausad tills vidare på grund av spelbarhetsproblem.
 
-Windows: packa upp hela ZIP-filen och starta Vallarum.exe. Webb: klicka LADDA SPELET. Sparpunkter lagras lokalt på datorn respektive i webbläsaren.
+[Nedladdningssida](https://rogerjak.github.io/vallarum-play/) · [Källor och krediter](CREDITS.md).
 
-Källor och rättigheter: [CREDITS.md](CREDITS.md). Detta repo innehåller distribuerbara spelbyggen; spelets källkod ligger separat.
+Detta repo innehåller endast offentlig distribution, inte projektets källkod.
