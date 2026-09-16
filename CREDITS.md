@@ -11,3 +11,12 @@ Vallarum – Sista skörden. Procedurbyggd spelvärld och spelkod av Vallarum-pr
 - Laddningsskärmens bakgrund är en bild från spelet.
 
 Fotografier och forskningsdokument som använts som referenser distribueras inte som speltillgångar.
+
+- Börjes händer och underarmar: MakeHuman/MPFB:s kärnmodell och old_caucasian_male-hud, CC0. Grepp och ytdetaljer bearbetade för spelet. Se Documentation/FARMER-ARMS.md.
+
+- Zeus plåttupp: Quaternius Chicken (CC0), bearbetad i Blender med ny metallfinish och ledade ben. https://quaternius.com/faq.html
+- Nya verktygsdetaljer, fågelskrämma och väktare: originalgeometri skapad i Blender för projektet, CC0. Se SourceArt/Models/LICENSE.md.
+
+- Börjes veterantraktor: Kenney Car Kit 3.1 (CC0), ombyggd och vädrad i Blender med nya originaldetaljer under CC0. Källa: https://kenney.nl/assets/car-kit. Se SourceArt/Tractor/README.md.
+
+- Äggregatet 3000: originalmodell skapad i Blender för Vallarum, CC0. Återanvänder traktorns CC0-material. Se SourceArt/TractorWeapon/LICENSE.md.

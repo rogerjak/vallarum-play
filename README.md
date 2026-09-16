@@ -1,6 +1,6 @@
 # Vallarum – Sista skörden
 
-Senaste Windowsversionen är v0.6.1. [Hämta spelet](https://github.com/rogerjak/vallarum-play/releases/tag/v0.6.1).
+Senaste Windowsversionen är v0.7.0. [Hämta spelet](https://github.com/rogerjak/vallarum-play/releases/tag/v0.7.0).
 
 Packa upp hela ZIP-filen och starta Vallarum.exe. Unity behöver inte installeras.
 
