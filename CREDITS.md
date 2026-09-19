@@ -1,5 +1,7 @@
 # Källor och krediter
 
+- Skördetröska: [3D Assets](https://3dassets.dev/assets/arable-fields-and-farm-machinery-combine-harvester-wit-2b81a4e0), CC0 1.0, bearbetad i Blender för Vallarum. Nya modelldetaljer och det syntetiserade glaskrossljudet är originalmaterial under CC0.
+
 Vallarum – Sista skörden. Procedurbyggd spelvärld och spelkod av Vallarum-projektet.
 
 - Kartdata: © [OpenStreetMap-bidragsgivare](https://www.openstreetmap.org/copyright), ODbL. Geometri och höjder är bearbetade för spelet och ska inte användas för navigering.
@@ -20,3 +22,5 @@ Fotografier och forskningsdokument som använts som referenser distribueras inte
 - Börjes veterantraktor: Kenney Car Kit 3.1 (CC0), ombyggd och vädrad i Blender med nya originaldetaljer under CC0. Källa: https://kenney.nl/assets/car-kit. Se SourceArt/Tractor/README.md.
 
 - Äggregatet 3000: originalmodell skapad i Blender för Vallarum, CC0. Återanvänder traktorns CC0-material. Se SourceArt/TractorWeapon/LICENSE.md.
+
+- Äggregatet 3000 och traktorns krockljud: Suno-exporter från projektägarens konto, bearbetade för spelet. Källänkar och valda varianter finns i Documentation/TRACTOR-SUNO-SFX.md. Dessa ljud är inte CC0.
