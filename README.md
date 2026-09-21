@@ -1,12 +1,12 @@
 # Vallarum – Sista skörden
 
-Senaste Windowsversionen är **v0.8.5**. [Hämta spelet](https://github.com/rogerjak/vallarum-play/releases/tag/v0.8.5).
+Senaste Windowsversionen är **v0.9.0**. [Hämta spelet](https://github.com/rogerjak/vallarum-play/releases/tag/v0.9.0).
 
 Packa upp hela ZIP-filen och starta Vallarum.exe. Unity behöver inte installeras.
 
-Nyheter i 0.8.5: Ny Blender-skördetröska, krossbara fönster med glasskärvor, synliga träffmärken och solida trädstammar.
+Nyheter i 0.9.0: Poster-atmosfär, rättad traktorkedja och gatlyktor, verifierade ljudsignaler, nattljus och miljödetaljer.
 
-Webbversionen finns separat som beta för testning. Denna release gäller Windows.
+Webbversionen är pausad tills vidare eftersom den inte är testad för v0.9.0. Denna release gäller Windows.
 
 [Nedladdningssida](https://rogerjak.github.io/vallarum-play/) · [Källor och krediter](CREDITS.md).
 
