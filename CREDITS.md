@@ -18,6 +18,7 @@ Fotografier och forskningsdokument som använts som referenser distribueras inte
 
 - Zeus plåttupp: Quaternius Chicken (CC0), bearbetad i Blender med ny metallfinish och ledade ben. https://quaternius.com/faq.html
 - Nattpassets ko, gris och får: Quaternius Farm Animal Pack (CC0 1.0), bearbetade i Blender med upphängningar och bakade hud-, ull- och blodtexturer. Källa: https://quaternius.com/packs/farmanimal.html. Uppdragets musik och importerade ljud, inklusive bloddroppar, är genererade med Suno på projektägarens konto och är inte CC0.
+- De levande grisarna: Quaternius Farm Animal Pack (CC0 1.0), bearbetade från den levande grundposen i Blender. Källa: https://quaternius.com/packs/farmanimal.html.
 - Nya verktygsdetaljer, fågelskrämma och väktare: originalgeometri skapad i Blender för projektet, CC0. Se SourceArt/Models/LICENSE.md.
 
 - Börjes veterantraktor: Kenney Car Kit 3.1 (CC0), ombyggd och vädrad i Blender med nya originaldetaljer under CC0. Källa: https://kenney.nl/assets/car-kit. Se SourceArt/Tractor/README.md.
