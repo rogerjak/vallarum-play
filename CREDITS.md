@@ -26,3 +26,7 @@ Fotografier och forskningsdokument som använts som referenser distribueras inte
 - Äggregatet 3000: originalmodell skapad i Blender för Vallarum, CC0. Återanvänder traktorns CC0-material. Se SourceArt/TractorWeapon/LICENSE.md.
 
 - Äggregatet 3000 och traktorns krockljud: Suno-exporter från projektägarens konto, bearbetade för spelet. Källänkar och valda varianter finns i Documentation/TRACTOR-SUNO-SFX.md. Dessa ljud är inte CC0.
+
+- Tomtelands modellkällare: Bench Vice 01 (Antanas Kep; rigg Yann Kervran) och Pliers (PierreB3D), Poly Haven, CC0. Källa: https://polyhaven.com/license. Miniatyrlastbilarna och deras gemensamma atlas är originalmaterial skapat för projektet.
+- Den sittande tomten, verkstadens originalrekvisita och de nya gatlamporna: originalmodeller skapade i Blender för Vallarum. Gatlampornas galvaniserade textur är också originalmaterial; inga externa tillgångar användes för lampmodellen.
+- Textilier på fågelskrämmor och ärmar återanvänder Rough Linen från Poly Haven, av Rico Cilliers och colormass, CC0. Hud, kläder, poser och ändringar framgår av projektets tillgångsredovisning.
