@@ -11,6 +11,7 @@ Vallarum – Sista skörden. Procedurbyggd spelvärld och spelkod av Vallarum-pr
 - Fraktlåda: [Wooden Crate 01](https://polyhaven.com/a/wooden_crate_01), James Ray Cock, Poly Haven, CC0. Bearbetad i Blender för spelets ledtrådsspår.
 - Himmel: Kloofendal 48d Partly Cloudy (Pure Sky), Greg Zaal och Jarod Guest, Poly Haven, CC0. Generisk himmel, inte ett foto från Vallarum.
 - Musik och importerade ljudeffekter genererade med Suno på projektägarens konto. Dessa ljud är inte CC0. Elldalas musik: [Elldala – Något finns i huset](https://suno.com/song/6477f252-1a5e-4d90-87ff-c8e2734faf7a), bearbetad till en sömlös loop.
+- Skördebokslutets fem radiorepliker skrevs för spelet och lästes upp med KBLabs svenska Piper-röst `sv_SE-nst-medium`. Modellkortet anger CC0 för röstens träningsmaterial. [Modellkort för den svenska rösten](https://huggingface.co/rhasspy/piper-voices/blob/main/sv/sv_SE/nst/medium/MODEL_CARD)
 - Laddningsskärmens bakgrund är en bild från spelet.
 
 Fotografier och forskningsdokument som använts som referenser distribueras inte som speltillgångar.
